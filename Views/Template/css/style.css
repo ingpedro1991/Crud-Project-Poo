@@ -1,0 +1,50 @@
+.estudiantes,.secciones,.add_estudiantes,.add_secciones,.notfound,.edit_estudiantes,.edit_secciones,.estudiantes_ver,.secciones_ver,.home{
+	padding: 5em 0;
+	height: 100vh;
+	background-image: url('../img/fondo.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: 100% 100%;
+	background-color: #ffffff;
+}
+a,a:hover,a:focus,a:active{
+	text-decoration: none;
+}
+footer .navbar{
+	margin-bottom: 0;
+}
+footer .navbar p{
+	margin: 0;
+	padding: 2em;
+	color: #ffffff;
+}
+table,th{
+	text-align: center;
+}
+thead{
+	background-color: #008cba;
+	border-color: #007196;
+}
+.img_avatar{
+	height: 50px;
+	width: 50px;
+}
+.table a{
+	margin-right:.5em;
+}
+.table>tbody>tr>td{
+	padding: 1em;
+}
+.navbar-default .navbar-brand{
+	background: url("../img/logo.png");
+	background-size: 100% 100%;
+	width: 200px;
+}
+.home .carousel-inner img{
+	height: 400px;
+	width: 100%;
+}
+.add_estudiantes h1,.notfound h1{
+	padding: 5em 0;
+}
